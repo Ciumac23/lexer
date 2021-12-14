@@ -6,3 +6,9 @@ If the pattern can be splitted into tokens, it means that the pattern is accepta
 # Input
 
 Given an pattern and DFAs algorithm find the longest tokens accepted by DFAs and prints them.
+
+# Output
+
+<dfa_name> <accepted_symbols>
+
+# Example
