@@ -1,6 +1,6 @@
 # Lexer Project
 
-Having a list of DFAs which defines the Lexem's tokens, we need to separate a given pattern into DFAs tokens.
+Having a list of DFAs which defines the Lexem's tokens, we need to separate the pattern into minimum DFAs tokens.
 If the pattern can be splitted into tokens, it means that the pattern is acceptable by DFAs.
 
 # Input
